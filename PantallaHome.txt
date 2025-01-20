@@ -1,5 +1,6 @@
 Capçalera 
 HeadNav
 LinkLogin
+Registre
 Cos
 Peu pàgina
