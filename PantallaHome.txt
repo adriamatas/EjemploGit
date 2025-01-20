@@ -1,4 +1,5 @@
 Capçalera 
-Head
+HeadNav
+LinkLogin
 Cos
 Peu pàgina
