@@ -1,4 +1,6 @@
 Capçalera 
 Head
+Link
+Registre
 Cos
 Peu pàgina
